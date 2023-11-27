@@ -7,7 +7,7 @@ I worked as Software Test Engineer at Altay Software since 2015 to 2017 and Huaw
 - Java
 - C#
 
-Also I want to write code with Python, Go and Kotlin.
+Also I want to write code with Playwright and Kotlin.
 <br />
 <br />
 
