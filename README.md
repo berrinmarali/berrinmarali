@@ -1,6 +1,6 @@
 ## Hi, I’m Berrin 👋 
 I’m a computer engineer 💻 <br />
-I worked as Software Test Engineer at Altay Software since 2015 to 2017. I have been working as Software Test Engineer at Huawei R&D Center in Istanbul since 2017.
+I worked as Software Test Engineer at Altay Software since 2015 to 2017 and Huawei R&D Center in Istanbul since 2017 to 2021. I have been working as Developer In Test at Trendyol since 2021.
 <br />
 <br />
 ## Programming Languages what I know 👾
